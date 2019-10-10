@@ -4,6 +4,8 @@
 
 > The fastest way to build custom ML tools
 
+**Refer to [MarcSkovMadsen/awesome-streamlit](https://github.com/MarcSkovMadsen/awesome-streamlit) instead.**
+
 ## Contents
 
 - [Demos](#demos)
